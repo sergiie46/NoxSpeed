@@ -1,0 +1,27 @@
+Turn your Android phone into a clean, fast and customizable GPS driving dashboard.
+
+NoxSpeed combines a GPS speedometer, windshield Head-Up Display, trip computer and local driving statistics in an interface designed to be readable at a glance.
+
+KEY FEATURES
+• GPS speed in km/h, mph or knots.
+• Landscape HUD with mirrored windshield-reflection mode.
+• Multiple dashboards: Digital, Classic, Sport, Night and Premium styles.
+• Trips with distance, duration, average speed and maximum speed.
+• GPS accuracy, heading, altitude and satellite status.
+• Configurable speed alert with optional sound and vibration.
+• Acceleration timer for closed-course or other safe, legal use.
+• Weekly statistics, records and an informational smoothness metric.
+• Local trip history with no account required.
+• JSON backup export and import.
+• Dark/OLED-focused design for night driving.
+
+PRIVACY
+NoxSpeed uses location to calculate speed, distance, heading and trip statistics. Trip summaries are stored locally on the device. No account is required. The free version uses Google AdMob and Google's consent tooling; Premium purchases are processed through Google Play.
+
+PREMIUM
+Unlock every dashboard and HUD, advanced features and remove ads with a one-time purchase handled by Google Play.
+
+SAFETY
+Keep your attention on the road and never interact with the phone while driving. GPS data can be inaccurate and NoxSpeed is not a certified speed-measuring instrument. The acceleration timer is intended only for safe and legal environments.
+
+NoxSpeed — NoxForge Studios.

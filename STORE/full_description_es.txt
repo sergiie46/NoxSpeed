@@ -1,0 +1,27 @@
+Convierte tu Android en un cuadro de instrumentos GPS limpio, rápido y personalizable.
+
+NoxSpeed combina velocímetro GPS, Head-Up Display para parabrisas, ordenador de viaje y estadísticas locales en una interfaz diseñada para ser legible de un vistazo.
+
+FUNCIONES PRINCIPALES
+• Velocidad GPS en km/h, mph o nudos.
+• HUD horizontal con modo espejo para reflejo en el parabrisas.
+• Diferentes cuadros: Digital, Classic, Sport, Night y estilos Premium.
+• Viajes con distancia, duración, velocidad media y máxima.
+• Precisión GPS, rumbo, altitud y estado de satélites.
+• Alerta de velocidad configurable con sonido y vibración opcionales.
+• Cronómetro de aceleración para uso en circuito o recinto seguro.
+• Estadísticas semanales, récords y métrica orientativa de suavidad.
+• Historial local sin crear cuenta.
+• Exportación e importación de copia de seguridad JSON.
+• Tema oscuro/OLED y experiencia optimizada para conducción nocturna.
+
+PRIVACIDAD
+NoxSpeed utiliza la ubicación para calcular velocidad, distancia, rumbo y estadísticas. Los resúmenes de viaje se guardan localmente en el dispositivo. La aplicación no requiere una cuenta. La versión gratuita utiliza Google AdMob y el sistema de consentimiento de Google; las compras Premium se procesan mediante Google Play.
+
+PREMIUM
+Desbloquea todos los cuadros y HUD, funciones avanzadas y elimina la publicidad mediante una compra única disponible a través de Google Play.
+
+SEGURIDAD
+Mantén siempre la atención en la carretera. No manipules el teléfono mientras conduces. Los datos GPS pueden contener errores y NoxSpeed no es un instrumento de velocidad certificado. El cronómetro de aceleración debe utilizarse únicamente en lugares seguros y legales.
+
+NoxSpeed — NoxForge Studios.

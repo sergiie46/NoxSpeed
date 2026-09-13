@@ -1,0 +1,10 @@
+IDS QUE FALTAN PARA PRODUCCIÓN
+==============================
+1. ADMOB_APP_ID
+2. ADMOB_BANNER_ID
+3. ADMOB_INTERSTITIAL_ID
+4. ADMOB_REWARDED_ID
+5. PREMIUM_PRODUCT_ID (puedes dejar premium_lifetime si creas ese ID exacto en Google Play Console)
+
+Todos están centralizados en: monetization.properties
+Durante desarrollo están configurados los IDs oficiales de prueba de Google AdMob.

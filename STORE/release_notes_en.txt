@@ -1,0 +1,5 @@
+First NoxSpeed release 🚗
+• GPS speedometer and mirrored HUD.
+• Trips, statistics and records.
+• Speed alerts and acceleration timer.
+• Customization, Premium and local no-account operation.

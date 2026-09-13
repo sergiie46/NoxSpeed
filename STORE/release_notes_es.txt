@@ -1,0 +1,5 @@
+Primera versión de NoxSpeed 🚗
+• Velocímetro GPS y HUD espejo.
+• Viajes, estadísticas y récords.
+• Alertas de velocidad y cronómetro de aceleración.
+• Personalización, Premium y funcionamiento local sin cuenta.
